@@ -1,0 +1,58 @@
+=== ConvertedIn AI Automation for woocommerce ===
+Contributors: convertedin
+Tags: Ads, automation
+Donate link: https://converted.in/
+Requires at least: 3.0.1
+Tested up to: 5.5.3
+Stable tag: 1.0.0
+Requires PHP: 5.6
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+ConvertedIn automates ads for your WooCommerce store in most of the ads platform
+
+== Description ==
+
+We are an ads automation platform where store owners can use our platform to auto-run ads for their cusotm audince, through diffrent social platforms.
+
+A few notes about the sections above:
+
+
+== Installation ==
+
+1. login to your WordPress dashboard
+2. open plugins tab > add new > upload plugin
+3. Download and install the plugin
+4. after installing the plugin successfully you'll be redirected to the screen where you can set the Convertedin email
+5. Upon clicking `confirm and continue` the plugin will create an account on ConvertedIn platform using your WordPress user email or the email you chose. if you already have an account with the email you chose your store will be added to that email and your datasource is successfully added
+
+ #### You can always login to your account using the WordPress Plugin
+
+1. navigate to ConvertedIn tab in your WordPress Dashboard
+2. Click `Login to ConvertedIn`
+
+== Screenshots ==
+
+1. installation screen
+
+== Changelog ==
+
+= 1.0.1 =
+* Detect woocommerce plugin installed
+
+= 1.0.0 =
+* AutoLogin into the convertedIn platform.
+* simple store data synchronization.
+
+
+== Frequently Asked Questions ==
+
+= What does this do? =
+
+We are an ads automation platform where store owners can use our platform to auto-run ads for their cusotm audince, through diffrent social platforms.
+
+== Upgrade Notice ==
+
+No updates available
+
+`<?php code(); // goes in backticks ?>`
